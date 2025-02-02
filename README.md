@@ -1,5 +1,5 @@
 # sublime_gui
-A windows lightweight GUI app to open and run files using sublime-text in windows subsystem for linux
+A windows lightweight GUI app to navigate via the windows filesystem, open and run files using sublime-text in windows subsystem for linux
 
 ## Installation
 1. Install the [windows subsystem for linux](https://github.com/BioGUIwslLab/WSL-Installation/blob/main/README.md)
