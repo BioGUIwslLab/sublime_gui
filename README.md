@@ -1,5 +1,5 @@
 # sublime_gui
-A windows lightweight GUI app to navigate via the windows filesystem, open and run files using sublime-text in windows subsystem for linux
+A windows x86_64 lightweight GUI app to navigate via the windows filesystem, open and run files using sublime-text in windows subsystem for linux
 
 ## Installation
 1. Install the [windows subsystem for linux](https://github.com/BioGUIwslLab/WSL-Installation/blob/main/README.md)
@@ -15,6 +15,8 @@ A windows lightweight GUI app to navigate via the windows filesystem, open and r
 2. Open `sublime_gui.exe` click `Browse` and navigate to the file you just created.
 
 ![](img/1.png)
+
+**Note: By default the program converts windows line endings to linux. If you want to convert mac line endings to linux click on the square box shown in the figure below**
 
 3. Click `Run program`. A Sublime Text window will appear
 
